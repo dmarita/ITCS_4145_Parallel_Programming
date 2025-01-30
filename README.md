@@ -1,1 +1,1 @@
-# 4145_MergeSort
+# ITCS_4145_Parallel_Programming
